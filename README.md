@@ -1,4 +1,4 @@
-# neo4j-embedded
+# neo4j-embedded with Cypher
 A simple neo4j scala seed, that do stress test/benchmark with embedded instance.
 - speed of adding nodes and relationships with a different maximum number of outgoing connections from a single node
 
